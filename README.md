@@ -1,6 +1,6 @@
 # Fogplix Anime
 
-<a href="https://app.foganime.com/download-mobile.html"><img src="https://i.ibb.co/PMrgx6f/360-F-535240482-E2-FCPJa9-Pw914-Wrvk-V6ipz-Pjp-JVSCBSW-removebg-preview.png" alt="Fogplix Anime Logo" width="200"/></a>
+<a href="https://app.foganime.com/download-mobile.html"><img src="https://i.ibb.co/PMrgx6f/360-F-535240482-E2-FCPJa9-Pw914-Wrvk-V6ipz-Pjp-JVSCBSW-removebg-preview.png" alt="Download Fogplix Anime Apk" width="200"/></a>
 
 Welcome to Fogplix Anime – your gateway to a vast world of anime entertainment! Fogplix Anime is a user-friendly Android application that allows anime enthusiasts to indulge in their favorite shows and movies absolutely free.
 
