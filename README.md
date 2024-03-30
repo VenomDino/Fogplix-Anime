@@ -16,7 +16,7 @@ Welcome to Fogplix Anime – your gateway to a vast world of anime entertainment
 
 To install Fogplix Anime on your Android device, follow these steps:
 
-1. Download the latest APK from the [Fogplix Anime Website](https://app.foganime.com) section.
+1. Download the latest APK from the [Fogplix Anime Website](https://venomdino.github.io/FogPlix-Landing-Page) section.
 2. Enable installation from unknown sources in your device settings.
 3. Install the APK file.
 4. Launch the app and start watching your favorite anime!
